@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edwin Rolle</title>
+    <link>https://kaapiandcode.github.io/</link>
+    <description>Recent content on Edwin Rolle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language><atom:link href="https://kaapiandcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projekte</title>
+      <link>https://kaapiandcode.github.io/projects/</link>
+      <pubDate>Sat, 23 Dec 2023 11:38:54 +0100</pubDate>
+      
+      <guid>https://kaapiandcode.github.io/projects/</guid>
+      <description> Filmfestival Software Weiterentwicklung einer Platform zur Organisation eines großen deutschen Filmfestivals k8s Platform Aufbau einer Produktionsumgebung auf Basis von Kubernetes zum Betrieb einer großen Ticketing Vertriebsplatform. Volleynator Volleynator ist eine App zur übersichtlichen Darstellung von Volleyballergebnissen aus ganz Deutschland </description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://kaapiandcode.github.io/imprint/</link>
+      <pubDate>Sat, 23 Dec 2023 01:24:12 +0100</pubDate>
+      
+      <guid>https://kaapiandcode.github.io/imprint/</guid>
+      <description>Angaben gemäß § 5 TMG Edwin Rolle
+Im Blumenwinkel 15
+76227 Karlsruhe
+Kontakt: E-Mail: edwin_rolle at web.de
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Edwin Rolle
+Im Blumenwinkel 15
+76227 Karlsruhe
+Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.</description>
+    </item>
+    
+  </channel>
+</rss>

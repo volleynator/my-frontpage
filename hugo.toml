@@ -1,0 +1,69 @@
+## Basic Configuration
+
+baseurl = "https://kaapiandcode.github.io/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "de-DE"
+unsafe = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Edwin Rolle"
+title = "Edwin Rolle"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+## disqusShortname = "https-kaapiandcode-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+## googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Edwin Rolle"
+intro = "Fullstack Software Engineer | DevOps Specialist"
+description = ""
+authorimage = "headshot.jpeg"
+dateformat = "2.1.2006"
+
+
+## Site Meta Settings
+[params.meta]
+description = "Senior Fullstack Software Engineer"
+keywords = "devops,kotlin,java,javascript,docker,kubernetes,developer"
+
+## Social Accounts
+[params.social]
+github = "volleynator"
+## instagram = "<username>"
+linkedin = "edwin-rolle-7b256b79"
+## twitter = "<username>"
+## facebook = "<username>"
+## google = "<username>"
+## stackoverflow = "<username>"
+email = "edwin@volleynator.de"
+
+## Extras
+[params.extra]
+copyright = "© 2023. Edwin Rolle. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+hightlightjs = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "Impressum"
+    identifier = "imprint"
+    weight = 200
+    url = "/imprint/"
+[[menu.main]]
+    name = "Projekte"
+    identifier = "projects"
+    weight = 100
+    url = "/projects/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
