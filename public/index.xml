@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edwin Rolle</title>
-    <link>https://kaapiandcode.github.io/</link>
+    <link>https://edwin.volleynator.de/</link>
     <description>Recent content on Edwin Rolle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://kaapiandcode.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language><atom:link href="https://edwin.volleynator.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projekte</title>
-      <link>https://kaapiandcode.github.io/projects/</link>
+      <link>https://edwin.volleynator.de/projects/</link>
       <pubDate>Sat, 23 Dec 2023 11:38:54 +0100</pubDate>
       
-      <guid>https://kaapiandcode.github.io/projects/</guid>
+      <guid>https://edwin.volleynator.de/projects/</guid>
       <description> Filmfestival Software Weiterentwicklung einer Platform zur Organisation eines großen deutschen Filmfestivals k8s Platform Aufbau einer Produktionsumgebung auf Basis von Kubernetes zum Betrieb einer großen Ticketing Vertriebsplatform. Volleynator Volleynator ist eine App zur übersichtlichen Darstellung von Volleyballergebnissen aus ganz Deutschland </description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://kaapiandcode.github.io/imprint/</link>
+      <link>https://edwin.volleynator.de/imprint/</link>
       <pubDate>Sat, 23 Dec 2023 01:24:12 +0100</pubDate>
       
-      <guid>https://kaapiandcode.github.io/imprint/</guid>
+      <guid>https://edwin.volleynator.de/imprint/</guid>
       <description>Angaben gemäß § 5 TMG Edwin Rolle
 Im Blumenwinkel 15
 76227 Karlsruhe

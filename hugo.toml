@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://kaapiandcode.github.io/" 
+baseurl = "https://edwin.volleynator.de/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "de-DE"
