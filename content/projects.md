@@ -161,6 +161,12 @@ ul li .descr::before {
   bottom: 0.25rem;
 }
 
+@media(max-width: 700px) {
+  body {
+    display: block;
+  }
+}
+
 @media (min-width: 40rem) {
   ul {
     grid-template-columns: 1fr var(--line-w) 1fr;
